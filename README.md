@@ -1,6 +1,6 @@
 # Exercicios de JavaScript
 
-Fiz esse repositório a fim de ajudar pessoas que estão inciando no mundo da programção e que talvez não saibam por onde começar e precisam de um norte, essas atividades começam abordando conceitos básicos como criar uma variável até armazenamento em arrays. **Boas atividades e obrigado pela atenção.**
+Fiz esse repositório a fim de ajudar pessoas que estão inciando no mundo da programção e que talvez não saibam por onde começar e precisam de um norte, essas atividades começam abordando conceitos básicos como criar uma variável até armazenamento em arrays. As resolulções das questões estão todas na pasta **Exercicios**. **Boas atividades e obrigado pela atenção.**
 
 # Exercícios
 
