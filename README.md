@@ -40,4 +40,7 @@ Escreva um programa que **calcule** e **mostre** a tabuada (até 10x) de um núm
 ### Exercício 12
 Faça um programa que **leia** um vetor numérico de 10 posições. Depois, **ordene** o vetor em ordem crescente e apresente os elementos ordenados.
 
+# Referências
+https://github.com/tiagovignatti/exercicios-javascript/tree/master
+
 
